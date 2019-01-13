@@ -1,0 +1,8 @@
+/2019/01/
+/2019/01/11/hello-world/
+/category/uncategorized/
+/comments/feed/
+/feed/
+/inc/js/jquery/jquery-migrate.min.js
+/inc/js/jquery/jquery.js
+/wp-json/

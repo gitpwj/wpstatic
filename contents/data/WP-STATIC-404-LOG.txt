@@ -1,0 +1,2 @@
+404:/sitemap.xml
+404:/category/uncategorized/

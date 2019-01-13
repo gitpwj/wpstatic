@@ -1,0 +1,13 @@
+STARTING EXPORT: 2019-01-11 07:59:25
+STARTING EXPORT: PHP VERSION 5.5.9-1ubuntu4.22
+STARTING EXPORT: OS VERSION Linux hahaqwer-wpstatic-6678588 4.9.120-c9 #1 SMP Wed Aug 15 22:48:26 UTC 2018 x86_64
+STARTING EXPORT: WP VERSION 4.8.8
+STARTING EXPORT: WP URL https://gitpwj.github.io/wpstatic
+STARTING EXPORT: WP SITEURL https://gitpwj.github.io/wpstatic
+STARTING EXPORT: WP HOME https://gitpwj.github.io/wpstatic
+STARTING EXPORT: WP ADDRESS https://gitpwj.github.io/wpstatic
+STARTING EXPORT: PLUGIN VERSION 6.2
+STARTING EXPORT: VIA WP-CLI? 
+STARTING EXPORT: STATIC EXPORT URL https://gitpwj.github.io/wpstatic/
+BAD RESPONSE STATUS (404): /sitemap.xml
+BAD RESPONSE STATUS (404): /category/uncategorized/
